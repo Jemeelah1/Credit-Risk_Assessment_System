@@ -1,8 +1,12 @@
 # AI-Based Credit Risk Assessment System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black.svg)](https://credit-risk-assessment-app.streamlit.app)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+[![App Status](https://img.shields.io/website?url=https%3A%2F%2Fcredit-risk-assessments-system.streamlit.app%2F&up_message=online&down_message=offline&label=App%20Status&style=for-the-badge&color=4A9B6E)](https://credit-risk-assessments-system.streamlit.app/)
 
 An end-to-end Machine Learning web application designed to evaluate loan applicants' creditworthiness and support data-driven decision-making in digital banking environments.
+
+## 🚀 Live Demo
+Access the deployed application here: [Credit Risk Assessment System](https://credit-risk-assessments-system.streamlit.app/)
 
 ## Key Features
 * **Interactive Assessment:** Computes real-time default probability scores and approval recommendations based on borrower demographic and financial profiles.
