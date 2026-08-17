@@ -1,5 +1,7 @@
 # AI-Based Credit Risk Assessment System
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black.svg)](https://credit-risk-assessment-app.streamlit.app)
+
 An end-to-end Machine Learning web application designed to evaluate loan applicants' creditworthiness and support data-driven decision-making in digital banking environments.
 
 ## Key Features
@@ -13,4 +15,3 @@ An end-to-end Machine Learning web application designed to evaluate loan applica
 * **User Interface:** Streamlit, Custom HTML/CSS
 * **Machine Learning & Data Processing:** Scikit-Learn, Pandas, Joblib
 * **Database:** SQLite3
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black.svg)](https://credit-risk-assessment-app.streamlit.app)
